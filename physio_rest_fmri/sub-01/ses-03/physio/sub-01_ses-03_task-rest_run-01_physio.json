@@ -13,14 +13,12 @@
     "Time": {
         "MeasureType": "Other", 
         "Description": "Continuous measurement of time",
-        "Units": "s",
-        "Placement": "n/a"
+        "Units": "s"
     },
     "Trigger": {
         "MeasureType": "Trigger", 
         "Description": "Continuous measurement of the MR scanner trigger signal",
         "Units": "mV",
-        "Placement": "n/a",
         "ChannelManufacturersModelName": "TR100C"
     },
     "PPG": {
@@ -28,7 +26,7 @@
         "Description": "Continuous pulse measurement",
         "Units": "mV",
         "Placement": "Middle finger right",
-        "ChannelManufacturersModelName": ["TSD200-MRI"],
+        "ChannelManufacturersModelName": "TSD200-MRI",
         "ChannelManufacturer": "Biopac",
         "AmplifierSettings": {
             "AmplifierManufacturersModelName": "PPG100C-MRI",
