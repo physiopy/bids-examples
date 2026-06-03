@@ -1,10 +1,9 @@
 {
     "SamplingFrequency": 100.0,
-    "ConcurrenceGroup": "bids:physio_rest_fmri:sub-01/ses-02/func/sub-01_ses-02_task-rest_run-01_bold.nii.gz",
     "StartTime": 0,
     "Columns": ["Time", "Trigger", "PPG", "ECG-1", "ECG-2", "Ventilation", "EDA"],
-    "PhysioType": "specified",
-    "AcquisitionObservations": "Drank two coffee before acquisition",
+    "PhysioType": "enriched",
+    "AcquisitionObservations": "Moves hands a lot",
     "SubjectPosition": "Supine",
     "SoftwareModels": "Acqknowledge",
     "SoftwareVersions": "5.0.4",
@@ -68,7 +67,7 @@
         "MeasureType": "Ventilation",
         "Description": "Continuous respiratory effort measurement belly",
         "Units": "mV",
-        "Placement": "Upper abdomen",
+        "Placement": "Thorax",
         "ChannelManufacturersModelName": "TSD221-MRI",
         "ChannelManufacturer": "Biopac",
         "AmplifierSettings": {

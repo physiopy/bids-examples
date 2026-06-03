@@ -1,10 +1,9 @@
 {
     "SamplingFrequency": 100.0,
-    "ConcurrenceGroup": "bids:physio_rest_fmri:sub-03/ses-02/func/sub-03_ses-02_task-rest_run-01_bold.nii.gz",
     "StartTime": 0,
     "Columns": ["Time", "Trigger", "PPG", "ECG-1", "ECG-2", "Ventilation", "EDA"],
-    "PhysioType": "specified",
-    "AcquisitionObservations": "Moves hands a lot",
+    "PhysioType": "enriched",
+    "AcquisitionObservations": "Participant remained still for the whole run",
     "SubjectPosition": "Supine",
     "SoftwareModels": "Acqknowledge",
     "SoftwareVersions": "5.0.4",

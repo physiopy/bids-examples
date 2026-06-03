@@ -1,10 +1,9 @@
 {
     "SamplingFrequency": 100.0,
-    "ConcurrenceGroup": "bids:physio_rest_fmri:sub-03/ses-03/func/sub-03_ses-03_task-rest_run-01_bold.nii.gz",
     "StartTime": 0,
     "Columns": ["Time", "Trigger", "PPG", "ECG-1", "ECG-2", "Ventilation", "EDA"],
-    "PhysioType": "specified",
-    "AcquisitionObservations": "Participant remained still for the whole run",
+    "PhysioType": "enriched",
+    "AcquisitionObservations": "EDA not fluctuating much",
     "SubjectPosition": "Supine",
     "SoftwareModels": "Acqknowledge",
     "SoftwareVersions": "5.0.4",
@@ -68,7 +67,7 @@
         "MeasureType": "Ventilation",
         "Description": "Continuous respiratory effort measurement belly",
         "Units": "mV",
-        "Placement": "Thorax",
+        "Placement": "Upper abdomen",
         "ChannelManufacturersModelName": "TSD221-MRI",
         "ChannelManufacturer": "Biopac",
         "AmplifierSettings": {
