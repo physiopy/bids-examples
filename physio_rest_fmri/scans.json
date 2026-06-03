@@ -4,6 +4,9 @@
     },
     "acq_time": {
         "LongName": "Acquisition time",
-        "Description": "Acquisition time of the particular scan"
+        "Description": "Acquisition time of the particular recording file"
+    },
+    "duration": {
+        "Description": "Duration of the recording file (measured from onset) in seconds"
     }
 }
