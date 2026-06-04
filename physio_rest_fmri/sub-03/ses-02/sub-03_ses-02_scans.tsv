@@ -1,7 +1,7 @@
-filename	acq_time  duration
-eeg/sub-03_ses-02_task-rest_run-01_eeg.bdf	2025-09-2T05:43:45  470.271
-func/sub-03_ses-02_task-rest_run-01_bold.nii.gz	2025-09-2T05:43:54    410.1
-physio/sub-03_ses-02_task-rest_run-01_physio.tsv.gz	2025-09-2T05:43:54  657.012
-eeg/sub-03_ses-02_task-rest_run-02_eeg.bdf	2025-09-2T06:43:45  482.345
-func/sub-03_ses-02_task-rest_run-02_bold.nii.gz	2025-09-2T06:43:54  410.1
-physio/sub-03_ses-02_task-rest_run-02_physio.tsv.gz	2025-09-2T06:43:54  598.967
+filename	acq_time	duration
+eeg/sub-03_ses-02_task-rest_run-01_eeg.bdf	2025-09-2T05:43:45	470.271
+func/sub-03_ses-02_task-rest_run-01_bold.nii.gz	2025-09-2T05:43:54	410.1
+physio/sub-03_ses-02_task-rest_run-01_physio.tsv.gz	2025-09-2T05:43:54	657.012
+eeg/sub-03_ses-02_task-rest_run-02_eeg.bdf	2025-09-2T06:43:45	482.345
+func/sub-03_ses-02_task-rest_run-02_bold.nii.gz	2025-09-2T06:43:54	410.1
+physio/sub-03_ses-02_task-rest_run-02_physio.tsv.gz	2025-09-2T06:43:54	598.967
